@@ -1,0 +1,1 @@
+SELECT * FROM character where race like 'dwarf' and level > 45;
